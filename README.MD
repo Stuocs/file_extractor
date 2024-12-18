@@ -1,6 +1,3 @@
-Aquí tienes el archivo `README.md` en dos secciones, en inglés y en español, que puedes usar para ambos repositorios en GitHub.
-
-```markdown
 # File Extraction Tool
 
 This project provides two versions of a file extraction tool:

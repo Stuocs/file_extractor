@@ -99,11 +99,3 @@ Sigue las indicaciones para seleccionar o ingresar la firma del archivo que dese
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ```
-
-### Explicación:
-
-- **Estructura**: El archivo `README.md` está dividido en dos secciones: una en inglés y otra en español. Esto permite a los usuarios de ambos idiomas acceder fácilmente a las instrucciones y detalles del proyecto.
-- **Instrucciones claras**: Cada versión del script tiene su propia explicación de cómo usarlo, y se describen los formatos de archivo soportados y cómo seleccionar o ingresar una firma personalizada.
-- **Requisitos y dependencias**: Se ha especificado que no hay dependencias externas para que el usuario sepa que solo necesita tener Python 3.x instalado.
-
-Este archivo `README.md` es perfecto para tu repositorio de GitHub, ya que explica de manera clara y accesible cómo usar ambos scripts en los dos idiomas.
